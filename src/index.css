@@ -17,3 +17,13 @@ h2 {
   margin: 0 auto;
   text-align: center;
 }
+
+#stocks {
+  float: left;
+  padding-left: 350px;
+}
+
+#portfolio {
+  float: right;
+  padding-right: 350px;
+}
